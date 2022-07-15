@@ -1,0 +1,58 @@
+{
+    "products":[
+        {   
+            "id":"we35",
+            "name":"Color Block Men Round Neck White T-Shirt",
+            "price":250,
+            "availabelSize":["M","XL","L"],
+            "idealFor": "Men",
+            "brandName":"flipkart",        
+            "imgURL":"https://rukminim1.flixcart.com/image/800/960/kt7jv680/shopsy-t-shirt/x/g/8/xl-skb-try-this-original-imag6hqngemxvfst.jpeg?q=50"
+        },
+        {
+            "id":"we34",
+            "name":"Men Slim Fit Solid Spread Collar Casual Shirt",
+            "price":549,
+            "availabelSize":["M","XL"],
+            "idealFor": "Men",
+            "brandName":"Highlander",        
+            "imgURL":"https://rukminim1.flixcart.com/image/800/960/kfoapow0-0/shirt/8/q/j/l-hlsh010647-highlander-original-imafw2gpcsa2jya9.jpeg?q=50"
+        },
+        {
+            "id":"we33",
+            "name":"Striped Men Round Neck Blue T-Shirt",
+            "price":349,
+            "availabelSize":["M" , "SM" , "L"],
+            "idealFor": "Men",
+            "brandName":"Reya",        
+            "imgURL":"https://rukminim1.flixcart.com/image/800/960/kzd147k0/t-shirt/q/z/m/m-tsrt-303-reya-original-imagbefyffzh68wj.jpeg?q=50"
+        },
+        {
+            "id":"we32",
+            "name":"Casual Regular Sleeves Printed Women Black Top",
+            "price":599,
+            "availabelSize":["M" , "SM" , "L" , "XS"],
+            "idealFor": "Women",
+            "brandName": "Highlander",        
+            "imgURL":"https://rukminim1.flixcart.com/image/800/960/kovsvbk0/top/x/b/s/l-00105-top-dl-fashion-original-imag38u46dwzehhq.jpeg?q=50"
+        },
+        {
+            "id":"we31",
+            "name":"Casual Regular Sleeves Printed Top",
+            "price":349,
+            "availabelSize":["M" , "XL" , "L" , "XXL"],
+            "idealFor": "Women",
+            "brandName":"Wildhorn",        
+            "imgURL":"https://rukminim1.flixcart.com/image/800/960/kj7gwi80-0/top/b/l/g/l-117tkr2636-selvia-original-imafytvnzca5cyrd.jpeg?q=50"
+        },
+        {
+            "id":"we30",
+            "name":"Sleeves Printed Women Black Top",
+            "price":389,
+            "availabelSize":["M" , "XL" , "L"],
+            "idealFor": "Women",
+            "brandName":"DL Fashion",        
+            "imgURL":"https://rukminim1.flixcart.com/image/495/594/l29c9e80/top/u/m/j/m-dfs-singham-original-imagdnfygpb2jhjg.jpeg?q=50"
+        }
+    ] 
+}
